@@ -1,3 +1,4 @@
+// Roast Your Own Operator in One Line — one-line entry: writes ENTRY to /output/entry.txt and prints it to stdout.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
